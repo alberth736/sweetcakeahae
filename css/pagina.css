@@ -1,0 +1,131 @@
+.navbar {
+    background-color: purple !important;
+  }
+  
+  .navbar-nav .nav-link {
+    color: purple !important;
+  }
+  
+  .navbar-brand {
+    color: purple !important;
+  }
+  
+  h1,
+  p {
+    text-align: center;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid black;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  
+  body {
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+  }
+  
+  h1,
+  p {
+    text-align: center;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid black;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .image-container img {
+    display: block;
+    margin: auto;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid black;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  
+  .product-item {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .product-item img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-weight: bold;
+  }
+  
+  .description {
+    font-style: italic;
+  }
+  
+  #contact {
+    background-color: #f5f5f5;
+    padding: 50px 0;
+  }
+  
+  .contact-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .contact-icons a,
+  .phone-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #bbb;
+  }
+  
+  .facebook-icon {
+    background-color: #3b5998;
+  }
+  
+  .instagram-icon {
+    background-color: #c32aa3;
+  }
+  
+  .youtube-icon {
+    background-color: #ff0000;
+  }
+  
+  .phone-icon {
+    font-size: 28px;
+    background-color: #555;
+  }
+  
+  .phone-number {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+  }
